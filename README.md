@@ -427,7 +427,7 @@ Broadcast message from root@alejandro42 (tty1) (Sun Apr 25 15:45:00 2021):
 #Sudo: 42 cmd
 ```
 
-## Resources
+## ​ℹ️​ Resources
 
 ### Official Documentation
 
@@ -438,11 +438,6 @@ Broadcast message from root@alejandro42 (tty1) (Sun Apr 25 15:45:00 2021):
 - [LVM How-To](https://tldp.org/HOWTO/LVM-HOWTO/)
 - [OpenSSH Manual](https://www.openssh.com/manual.html)
 
-### Tutorials and Articles
 
-- [42 Born2beRoot Guide](https://github.com/pasqualerossi/Born2BeRoot-42)
-- [Linux File System Hierarchy](https://www.pathname.com/fhs/)
-- [PAM and Password Policies](https://linux.die.net/man/5/pam_pwquality)
-- [Sudoers Manual](https://www.sudo.ws/docs/man/sudoers.man/)
-
-
+## 👨‍💻 Author
+**Alejandro Carrillo** — [alcarril](https://github.com/alcarril)
